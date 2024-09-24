@@ -1,6 +1,6 @@
 <h1>📝 Projeto de Formulário de Login - React com Vite <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="50"></h1>
 
-Este é um projeto básico de **React JS** criado com **Vite**, que implementa um formulário de login funcional. O objetivo do projeto é ensinar iniciantes a trabalhar com **React Hooks**, eventos de formulário e estilização com **CSS** utilizando o efeito **glassmorphism**.
+Este é um projeto básico de **React JS** criado com **Vite**, que implementa um formulário de login funcional. O objetivo do projeto é trabalhar com **React Hooks**, eventos de formulário e estilização com **CSS** utilizando o efeito **glassmorphism**.
 
 ---
 
